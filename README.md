@@ -1,8 +1,8 @@
 # restaurantApplication
-Download the zip folder of the application
+Download the zip folder of the application.
 Open the project in vscode, webstorm or some JS supporting IDE.
-Goto project root directory and run npm i
-then run npm install express mongoose cors typescript @types/express @types/mongoose @types/cors @types/node dotenv bcryptjs jsonwebtoken
-run npm start to run server
-now app is running on localhost
-app is ready to be tested
+Goto project root directory and run npm i.
+Run npm start to run server.
+Now app is running on localhost.
+App is ready to be tested.
+Test the app from the postman collection in the github link.
