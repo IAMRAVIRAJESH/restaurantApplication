@@ -1,5 +1,6 @@
 # restaurantApplication
 Download the zip folder of the application
+Open the project in vscode, webstorm or some JS supporting IDE.
 Goto project root directory and run npm i
 then run npm install express mongoose cors typescript @types/express @types/mongoose @types/cors @types/node dotenv bcryptjs jsonwebtoken
 run npm start to run server
